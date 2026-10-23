@@ -1,0 +1,5 @@
+﻿dataset,domain,records,programmes,licence,doi_or_url,source
+FRP-RC shear database,shear of FRP-reinforced concrete beams without stirrups,253,41,CC BY-NC 4.0,doi:10.15131/shef.data.5057527,Cholostiakow (2017) University of Sheffield repository
+SFRC shear database,shear of steel-fibre-reinforced concrete beams without stirrups,353,85,CC BY 4.0,doi:10.5281/zenodo.2578061,Lantsoght (2019) Zenodo
+Carbonation database,carbonation of concrete,1230,48,CC BY 4.0,doi:10.5281/zenodo.21830461,RILEM TC 281-CCC compilation (upstream Vollpracht et al. 2024)
+Deep-beam database,shear of reinforced-concrete deep beams,322,48,CC BY 4.0,https://doi.org/10.1038/s41598-024-64386-w,Megahed (2024) Scientific Reports

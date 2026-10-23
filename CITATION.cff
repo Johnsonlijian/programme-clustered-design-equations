@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code or the derived tables, please cite the manuscript and this repository."
+title: "Design equations as testable mechanism hypotheses: programme-level evidence, pricing, and trust allocation"
+type: software
+authors:
+  - family-names: Ren
+    given-names: Lijian
+    affiliation: "School of Civil Engineering, Inner Mongolia University of Technology, Hohhot, China"
+year: 2026
+license: MIT
+repository-code: "https://github.com/Johnsonlijian/programme-clustered-design-equations"
+keywords:
+  - design codes
+  - model uncertainty
+  - hierarchical models
+  - programme-clustered data
+  - size effect
+  - shear strength
+  - carbonation
