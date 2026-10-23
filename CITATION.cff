@@ -8,6 +8,7 @@ authors:
     affiliation: "School of Civil Engineering, Inner Mongolia University of Technology, Hohhot, China"
 year: 2026
 license: MIT
+doi: 10.5281/zenodo.23583641
 repository-code: "https://github.com/Johnsonlijian/programme-clustered-design-equations"
 keywords:
   - design codes
