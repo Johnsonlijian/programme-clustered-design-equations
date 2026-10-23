@@ -1,4 +1,4 @@
-# Programme-clustered evidence and the value of codified design equations
+﻿# Programme-clustered evidence and the value of codified design equations
 
 Reproducibility package for the manuscript *“Design equations as testable mechanism hypotheses:
 programme-level evidence, pricing, and trust allocation”* (Lijian Ren, Inner Mongolia University of
@@ -9,6 +9,8 @@ yet in the database. It treats each coded term as a testable mechanism hypothesi
 asserted exponents with within-programme contrasts, converts the remaining misfit into the number
 of programmes at which data-only learning overtakes the anchor, and allocates trust among
 code-imposed, code-as-prior and data-only arms.
+
+Archived version: [10.5281/zenodo.23583641](https://doi.org/10.5281/zenodo.23583641)
 
 ## What is here
 
