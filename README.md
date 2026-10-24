@@ -17,7 +17,7 @@ Archived version: [10.5281/zenodo.23583641](https://doi.org/10.5281/zenodo.23583
 | Path | Contents |
 |---|---|
 | `code/` | The analysis pipeline, one folder per internal round (R01→R07). Python 3.11+. |
-| `derived/` | Small derived tables: ladder theory and signatures, anchor dossiers, stress-test results, downstream comparison, per-term empirical grades. |
+| `derived/` | Small derived tables: ladder theory and signatures, anchor dossiers, stress-test results, downstream comparison, per-term empirical grades, PGLO leakage, tolerance sensitivity, stacking-level comparison and S* calibration. |
 | `figures/` | Generated figure masters (PDF) and previews (PNG). |
 | `REPRODUCIBLE_RUNBOOK.md` | Order of execution and what each round produces. |
 | `DATASETS_AND_LINKS.csv` | The four public databases, their DOIs and licences. |
@@ -32,7 +32,9 @@ others), the manuscript source, and the internal round notes.
 scarcity curves and the predicted/observed crossovers; `derived/anchor_dossiers.csv` and
 `derived/empirical_terms.csv` contain the per-anchor validity profile; `derived/stress_results.csv`
 and `derived/downstream_summary.csv` contain the metadata-check stress test and the downstream
-comparison.
+comparison. The R07 hardening outputs are `derived/pglo.csv`, `derived/stacking_pointwise.csv`,
+`derived/tolerance_curve.csv`, `derived/calibration_rungs.csv`, `derived/calibration_summary.csv`
+and `derived/tost_verdicts.csv`.
 
 ## Licence
 
