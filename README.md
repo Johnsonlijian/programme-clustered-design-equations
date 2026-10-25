@@ -1,7 +1,6 @@
-﻿# Programme-clustered evidence and the value of codified design equations
+﻿# KAG-SmallData — Programmes, not tests: testing, pricing, and anchoring design-equation knowledge in clustered engineering data
 
-Reproducibility package for the manuscript *“Design equations as testable mechanism hypotheses:
-programme-level evidence, pricing, and trust allocation”* (Lijian Ren, Inner Mongolia University of
+Reproducibility package for the manuscript *“Programmes, not tests: testing, pricing, and anchoring design-equation knowledge in clustered engineering data”* (Lijian Ren, Inner Mongolia University of
 Technology).
 
 The paper asks what a codified design equation is worth for predicting a test programme that is not
@@ -35,6 +34,7 @@ and `derived/downstream_summary.csv` contain the metadata-check stress test and 
 comparison. The R07 hardening outputs are `derived/pglo.csv`, `derived/stacking_pointwise.csv`,
 `derived/tolerance_curve.csv`, `derived/calibration_rungs.csv`, `derived/calibration_summary.csv`
 and `derived/tost_verdicts.csv`.
+The hardened figure source is `code/R07/r07_figure_hardening.py`; it regenerates `fig0_concept`, `fig3_scarcity`, `fig4_pred_vs_obs` and `fig_leakage` from the derived tables.
 
 ## Licence
 

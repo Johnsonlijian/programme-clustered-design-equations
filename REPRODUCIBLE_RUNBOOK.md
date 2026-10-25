@@ -29,8 +29,8 @@ paths the `kag_data_r05` loader expects (see its header), then run:
    (corrupted-deployment comparison), `r07_numbers.py` / `r07_tables.py` (core manuscript
    fragments). The hardening pass then runs `r07_exp23.py` (PGLO leakage and pointwise versus
    programme-level stacking), `r07_exp14.py` (tolerance curve and S* calibration),
-   `r07_tost.py` (equivalence-test verdicts), and `r07_exp_numbers.py` (R07 table/number
-   fragments). These scripts write `pglo.csv`, `stacking_pointwise.csv`,
+   `r07_tost.py` (equivalence-test verdicts), and `r07_exp_numbers.py` (R07 table/number fragments), then `r07_figure_hardening.py` (vector-first
+   concept, scarcity, crossover-budget and leakage figures). These scripts write `pglo.csv`, `stacking_pointwise.csv`,
    `tolerance_curve.csv`, `calibration_rungs.csv`, `calibration_summary.csv` and
    `tost_verdicts.csv` under `derived/` in the public package.
 
