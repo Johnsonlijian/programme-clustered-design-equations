@@ -1,6 +1,6 @@
 ﻿cff-version: 1.2.0
 message: "If you use this code or the derived tables, please cite the manuscript and this repository."
-title: "Programmes, not tests: testing, pricing, and anchoring design-equation knowledge in clustered engineering data"
+title: "When do design equations pay off? Programme-level uncertainty and code calibration in clustered engineering data"
 type: software
 authors:
   - family-names: Ren
@@ -8,7 +8,7 @@ authors:
     affiliation: "School of Civil Engineering, Inner Mongolia University of Technology, Hohhot, China"
 year: 2026
 license: MIT
-doi: 10.5281/zenodo.23583641
+doi: 10.5281/zenodo.23583640
 repository-code: "https://github.com/Johnsonlijian/programme-clustered-design-equations"
 keywords:
   - design codes

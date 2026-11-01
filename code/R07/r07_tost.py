@@ -11,8 +11,11 @@ dW = data_exp - theta0 with standard error dW_se is tested:
   ATTENUATED    : same sign, CI excludes 0, not equivalent
   NOT-EVALUABLE : eps < 2.8 * SE (the 80%-power minimum detectable deviation)
 
-Holm correction is applied within each anchor across its asserted contrasts for
-the CONTRADICTED decisions.
+Note: the verdicts written to `tost_verdicts.csv` are NOT adjusted for
+multiplicity. A Holm-adjusted p-value sketch is computed below for inspection
+(`adj`) but is not applied to change any verdict; the manuscript reports the
+unadjusted verdicts and separately notes which CONTRADICTED terms would survive
+Holm adjustment within their anchors (computed in the R08 numbers pass).
 """
 from __future__ import annotations
 
